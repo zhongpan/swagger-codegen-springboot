@@ -9,3 +9,6 @@ properties:
     type: string
   tag:
     type: string
+  ctime:
+    type: string
+    format: date-time
